@@ -12,7 +12,8 @@
   😹I like to play table tennis and occasionally watch some anime. 
 	
   😴Recently I am playing FF7:remake and NARAKA. 
-
+  
+  ![这是图片](/philly-magic-garden.jpg "Magic Gardens")
 <!---
 HungChienSix/HungChienSix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
